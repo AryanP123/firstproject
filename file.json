@@ -1,0 +1,15 @@
+[{
+	"firstName": "Poop",
+	"lastName": "Man",
+	"age": "20",
+	"address": {
+		"streetname": "rockgate",
+		"state": "MA"
+	}
+},
+{
+	"firstName": "Poop2",
+	"lastName": "Man2",
+	"age": "20",
+	"address": {}
+}]
