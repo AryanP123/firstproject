@@ -5,11 +5,17 @@
 	"address": {
 		"streetname": "rockgate",
 		"state": "MA"
+	},
+	"hobby":{
+		"name":"chess"
 	}
 },
 {
 	"firstName": "Poop3",
 	"lastName": "Man2",
 	"age": "20",
-	"address": {}
+	"address": {},
+	"hobby":{
+		"name":"video games"
+	}
 }]
